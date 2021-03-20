@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 Gacon:
-  name:              gacon.id
+  name:              jejalink.com
   email:             gacondotco@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -23,7 +23,7 @@ Gacon:
   # Icons appear in order, can be rearranged:
   social:
     facebook:        cantouchmin
-    twitter:         gaconid
+    twitter:         jejalink
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -32,7 +32,7 @@ Gacon:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       gaconid
+    instagram:       jejalink
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -58,7 +58,7 @@ Gacon:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:gacondotco@gmail.com
-    rss:             https://gacon.id/feed.xml
+    rss:             https://jejalink.com/feed.xml
 
 # Another author
 Samsir:
