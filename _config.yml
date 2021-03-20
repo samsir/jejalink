@@ -2,11 +2,11 @@
 #  User configuration
 # 
 
-title:  Gacon
+title:  Jejalink
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:  https://gacon.id
+url:  https://jejalink.com
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -22,7 +22,7 @@ description:  >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name: Gacon
+  name: Jejalink
 
 # Fallback image and color
 image:  
@@ -40,7 +40,7 @@ disqus: True
 disqus_shortname: gaconid
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:  '&copy; 2020 &#124; Gacon.id'
+copyright:  '&copy; 2020 &#124; Jejalink.com'
 
 # Format of the permalinks
 permalink:  pretty
